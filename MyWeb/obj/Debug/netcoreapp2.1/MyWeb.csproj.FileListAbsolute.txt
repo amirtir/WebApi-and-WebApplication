@@ -1,0 +1,14 @@
+C:\Users\Amir\source\repos\MyWeb\MyWeb\bin\Debug\netcoreapp2.1\MyWeb.deps.json
+C:\Users\Amir\source\repos\MyWeb\MyWeb\bin\Debug\netcoreapp2.1\MyWeb.runtimeconfig.json
+C:\Users\Amir\source\repos\MyWeb\MyWeb\bin\Debug\netcoreapp2.1\MyWeb.runtimeconfig.dev.json
+C:\Users\Amir\source\repos\MyWeb\MyWeb\bin\Debug\netcoreapp2.1\MyWeb.dll
+C:\Users\Amir\source\repos\MyWeb\MyWeb\obj\Debug\netcoreapp2.1\MyWeb.csprojAssemblyReference.cache
+C:\Users\Amir\source\repos\MyWeb\MyWeb\obj\Debug\netcoreapp2.1\MyWeb.csproj.CoreCompileInputs.cache
+C:\Users\Amir\source\repos\MyWeb\MyWeb\obj\Debug\netcoreapp2.1\MyWeb.RazorAssemblyInfo.cache
+C:\Users\Amir\source\repos\MyWeb\MyWeb\obj\Debug\netcoreapp2.1\MyWeb.RazorAssemblyInfo.cs
+C:\Users\Amir\source\repos\MyWeb\MyWeb\obj\Debug\netcoreapp2.1\MyWeb.AssemblyInfoInputs.cache
+C:\Users\Amir\source\repos\MyWeb\MyWeb\obj\Debug\netcoreapp2.1\MyWeb.AssemblyInfo.cs
+C:\Users\Amir\source\repos\MyWeb\MyWeb\obj\Debug\netcoreapp2.1\MyWeb.RazorTargetAssemblyInfo.cache
+C:\Users\Amir\source\repos\MyWeb\MyWeb\bin\Debug\netcoreapp2.1\MyWeb.pdb
+C:\Users\Amir\source\repos\MyWeb\MyWeb\obj\Debug\netcoreapp2.1\MyWeb.dll
+C:\Users\Amir\source\repos\MyWeb\MyWeb\obj\Debug\netcoreapp2.1\MyWeb.pdb

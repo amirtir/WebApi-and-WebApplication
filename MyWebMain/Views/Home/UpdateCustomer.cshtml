@@ -1,0 +1,89 @@
+﻿@model MyWebMain.Models.Customer
+
+@{
+    ViewData["Title"] = "UpdateCustomer";
+}
+
+<h2>UpdateCustomer</h2>
+
+<h4>Customer</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+
+        <form asp-action="UpdateCustomer" method="post">
+
+            <div class="form-group" hidden="hidden" >
+
+                <label asp-for="CustomerId"></label>
+                <input asp-for="CustomerId" value="@Model.CustomerId"  />
+
+            </div>
+            <div class="form-group">
+
+                <label asp-for="FirstName"></label>
+                <input asp-for="FirstName" value="@Model.FirstName" />
+
+            </div>
+            <div class="form-group">
+
+                <label asp-for="LastName"></label>
+                <input asp-for="LastName" value="@Model.LastName" />
+
+            </div>
+
+            <div class="form-group">
+
+                <label asp-for="Email"></label>
+                <input asp-for="Email" value="@Model.Email" />
+
+            </div>
+
+            <div class="form-group">
+
+                <label asp-for="Phone"></label>
+                <input asp-for="Phone" value="@Model.Phone" />
+
+            </div>
+
+            <div class="form-group">
+
+                <label asp-for="Address"></label>
+                <input asp-for="Address" value="@Model.Address" />
+
+            </div>
+
+            <div class="form-group">
+
+                <label asp-for="City"></label>
+                <input asp-for="City" value="@Model.City" />
+
+            </div>
+            <div class="form-group">
+
+                <label asp-for="State"></label>
+                <input asp-for="State" value="@Model.State" />
+
+            </div>
+            <div class="form-group">
+
+                <label asp-for="ZipCode"></label>
+                <input asp-for="ZipCode" value="@Model.ZipCode" />
+
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Update" class="btn btn-default" />
+            </div>
+
+
+        </form>
+
+
+
+
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
